@@ -20,6 +20,7 @@
 
             if($resultado){
                 ?>
+                    <!-- <script>alert('Gracias por tu confianza. En breve me pondré en contacto contigo.');</script> -->
                     <div class="consulta_ok alert alert-success text-center mt-2" role="alert"><span>Gracias por tu confianza. En breve me pondré en contacto contigo.</span><div>
                 <?php
             }else{

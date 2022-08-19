@@ -414,7 +414,7 @@
         </div>
 
         <!-- conexión -->
-        <!-- <?php include('conexionBBDD/registro_consulta.php') ?> -->
+        <?php include('conexionBBDD/registro_consulta.php') ?>
 
     </section>
 
