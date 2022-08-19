@@ -2,9 +2,9 @@
 
 //Datos para la conexión remota
 $db_localhost = "localhost";
-$db_name = "u553684509_web_personal";
-$db_user = "u553684509_root";
-$db_password = "55OTxyc|A";
+$db_name = "";
+$db_user = "";
+$db_password = "";
 
 /*
 //Datos para la conexión local
