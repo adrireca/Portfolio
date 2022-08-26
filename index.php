@@ -288,10 +288,10 @@
             <div class="projects row">
                 <div class="col-3" id="project" data-aos="zoom-in-up">
                     <figure class="img-project">
-                        <img src="imgs/imgs_proyectos/galeria_fotos.jpg" />
+                        <img src="imgs/imgs_proyectos/sonia_estilistas.jpg" />
                         <figcaption class="overlay_project">
-                            <h3>Gallery.</h3>
-                            <a href="PROYECTO_galeria_fotos2/galeria_fotos.html" class="btn mt-3" target="_blank">Visit
+                            <h3>Sonia Estilistas.</h3>
+                            <a href="https://sonia-estilistas.adrianreyesweb.com" class="btn mt-3" target="_blank">Visit
                                 website
                                 <i class="fa-solid fa-angle-right"></i>
                             </a>
