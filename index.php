@@ -361,6 +361,18 @@
                         <div class="background_overlay_project"></div>
                     </figure>
                 </div>
+                <div class="col-3" id="project" data-aos="zoom-in-up">
+                    <figure class="img-project">
+                        <img src="imgs/imgs_proyectos/limpieza_reyes.jpg" />
+                        <figcaption class="overlay_project">
+                            <h3>Limpieza Reyes.</h3>
+                            <a href="https://servicios-limpieza-reyes.adrianreyesweb.com/" class="btn mt-3" target="_blank">Visit website
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </figcaption>
+                        <div class="background_overlay_project"></div>
+                    </figure>
+                </div>
             </div>
         </div>
     </section>
